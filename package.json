@@ -1,0 +1,22 @@
+{
+  "name": "fluentui-emoji",
+  "version": "1.0.0",
+  "description": "Fluent Emoji are a collection of familiar, friendly, and modern emoji from Microsoft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdStudio/fluentui-emoji.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdStudio/fluentui-emoji/issues"
+  },
+  "homepage": "https://github.com/EdStudio/fluentui-emoji#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
